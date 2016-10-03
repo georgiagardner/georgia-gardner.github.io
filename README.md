@@ -1,2 +1,2 @@
-# georgia-gardner.github.io
+# georgiagardner.github.io
 personal
